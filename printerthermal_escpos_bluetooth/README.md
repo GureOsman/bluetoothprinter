@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/DantSu/PrinterThermal-ESCPOS-Android.svg)](https://jitpack.io/#DantSu/PrinterThermal-ESCPOS-Android/1.1.1)
+[![](https://jitpack.io/v/DantSu/PrinterThermal-ESCPOS-Android.svg)](https://jitpack.io/#DantSu/PrinterThermal-ESCPOS-Android/1.1.2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Android library for Printer Thermal ESC/POS Command
@@ -35,7 +35,7 @@ Developed for SDK version 16 (Android 4.1 Jelly Bean) and above.
 
 ## Installation
 
-**Step 1.** Add the [JitPack](https://jitpack.io/#DantSu/PrinterThermal-ESCPOS-Android/1.1.1) repository to your build file. Add it in your root `/build.gradle` at the end of repositories:
+**Step 1.** Add the [JitPack](https://jitpack.io/#DantSu/PrinterThermal-ESCPOS-Android/1.1.2) repository to your build file. Add it in your root `/build.gradle` at the end of repositories:
 
 ```
 allprojects {
@@ -51,7 +51,7 @@ allprojects {
 ```
 dependencies {
     ...
-    implementation 'com.github.DantSu:PrinterThermal-ESCPOS-Android:1.1.1'
+    implementation 'com.github.DantSu:PrinterThermal-ESCPOS-Android:1.1.2'
 }
 ```
 
