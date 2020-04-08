@@ -99,7 +99,7 @@ public class PrinterCommands {
     }
 
     /**
-     * Convert Bitmap instance to a byte array compatible with ESC/POS printer.
+     * Convert a string to QR Code byte array compatible with ESC/POS printer.
      *
      * @param data String data to convert in QR Code
      * @return Bytes contain the image in ESC/POS command
